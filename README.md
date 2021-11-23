@@ -1,4 +1,5 @@
 <h1 align="center">Interview questions</h1>
+<p>NOTE:If you having any difficulty in solving then you can message me for solution</p>
 <h3>Question 1</h3>
 Rahman has N coins; let's denote the value of coin i by vi. Since today is Eid, Rahman is going to give 
 one coin to each of his two children. He wants the absolute value of the difference between the values of 
@@ -66,7 +67,8 @@ Output<br>
 chef<br>
 brother<br>
 both<br>
-none<br>
+none<br><br>
+Answer is <a href="https://github.com/Deepam-Aggarwal/interviewquestions/blob/main/question%202.cpp">here</a>
 <h3>Question 3</h3>
 Harry Potter is on a mission to destroy You-Know-Who's Horcruxes. The first Horcrux that he 
 encountered in the Chamber of Secrets is Tom Riddle's diary. The diary was with Ginny and it 
@@ -85,3 +87,19 @@ n lines each containing either "YES" or "NO" (without quotes), depending on whet
 was already present in the stream or not<br><br>
 Example<br>
 <img src="Screenshot 2021-11-23 154531.jpg">
+
+## Author
+
+- Website - [Deepam Aggarwal](https://deepam-aggarwal.github.io/Deepam-Portfolio/index.html)
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Deepam-Aggarwal&repo=OnTheGo-World-Tour&show_owner=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+](https://github.com/Deepam-Aggarwal/OnTheGo-World-Tour)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Deepam-Aggarwal&repo=Cynet-Webweaver&show_owner=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+](https://github.com/Deepam-Aggarwal/Cynet-Webweaver)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Deepam-Aggarwal&repo=Codes&show_owner=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+](https://github.com/Deepam-Aggarwal/Codes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Deepam-Aggarwal&repo=FSD-Project&show_owner=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+](https://github.com/Deepam-Aggarwal/FSD-Project)
+![Deepam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepam-Aggarwal&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepam-Aggarwal&layout=compact&theme=radical)](https://github.com/Deepam-Aggarwal)
+
