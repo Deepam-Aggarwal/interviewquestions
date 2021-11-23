@@ -84,4 +84,4 @@ Output:<br>
 n lines each containing either "YES" or "NO" (without quotes), depending on whether this string 
 was already present in the stream or not<br><br>
 Example<br>
-![](./Screenshot 2021-11-23 154531.jpg)
+<img src="Screenshot 2021-11-23 154531.jpg">
